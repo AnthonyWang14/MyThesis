@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  31 MAY 2017 09:27
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  31 MAY 2017 09:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2363,40 +2363,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 第1章
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 12.64714pt on input line 5.
-\g__fontspec_family_KaiTi_int=\count332
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font KaiTi/I (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font KaiTi/BI (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "no-font-shape"
-. 
-. Could not resolve font KaiTi/I (it probably doesn't exist).
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'KaiTi(0)' created for font 'KaiTi' with options
-. [Script={CJK},AutoFakeBold={4}].
-. 
-. This font family consists of the following NFSS series/shapes:
-. - 'normal' (m/n) with NFSS spec.: <->"KaiTi/OT:script=hani;language=DFLT;"
-. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (bx/n) with NFSS spec.:
-. <->"KaiTi/OT:script=hani;language=DFLT;embolden=4;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: 
-.................................................
-[1
-
-
-
-]
-\g__fontspec_family_KaiTi_GB2312_int=\count333
+\g__fontspec_family_KaiTi_GB2312_int=\count332
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -2412,8 +2379,8 @@ LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 . 
 . Could not resolve font KaiTi_GB2312/I (it probably doesn't exist).
 .................................................
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 34.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 21.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 .................................................
@@ -2430,64 +2397,66 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.045pt on input line 64.
+(Font)              scaled to size 12.045pt on input line 24.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 11.04124pt on input line 70.
+(Font)              scaled to size 11.04124pt on input line 30.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.03374pt on input line 82.
+(Font)              scaled to size 9.03374pt on input line 42.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 88.
+(Font)              scaled to size 8.0pt on input line 48.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 9.03374pt on input line 108.
- [2] [3]
-[4]
-Overfull \hbox (9.60687pt too wide) in paragraph at lines 204--216
+(Font)              scaled to size 9.03374pt on input line 68.
+ [1
+
+
+
+] [2]
+Overfull \hbox (9.60687pt too wide) in paragraph at lines 164--176
  [][] 
  []
 
-[5] [6]
+[3] [4] [5]
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 318.
- [7]
+(Font)              scaled to size 8.0pt on input line 278.
 Package hyperref Info: bookmark level for unknown assumption defaults to 0 on i
-nput line 334.
+nput line 294.
 Package hyperref Info: bookmark level for unknown equation defaults to 0 on inp
-ut line 338.
+ut line 298.
+ [6]
 Package hyperref Info: bookmark level for unknown definition defaults to 0 on i
-nput line 346.
+nput line 306.
 Package hyperref Info: bookmark level for unknown proposition defaults to 0 on 
-input line 356.
+input line 316.
 Package hyperref Info: bookmark level for unknown remark defaults to 0 on input
- line 364.
- [8]
+ line 324.
+ [7]
 Package hyperref Info: bookmark level for unknown axiom defaults to 0 on input 
-line 385.
+line 345.
 Package hyperref Info: bookmark level for unknown lemma defaults to 0 on input 
-line 401.
+line 361.
 Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
-t line 414.
- [9]
+t line 374.
+ [8]
 Package hyperref Info: bookmark level for unknown proof defaults to 0 on input 
-line 430.
+line 390.
 Package hyperref Info: bookmark level for unknown corollary defaults to 0 on in
-put line 441.
+put line 401.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.0pt on input line 448.
+(Font)              scaled to size 6.0pt on input line 408.
 Package hyperref Info: bookmark level for unknown example defaults to 0 on inpu
-t line 458.
- [10]
+t line 418.
 Package hyperref Info: bookmark level for unknown exercise defaults to 0 on inp
-ut line 470.
+ut line 430.
 Package hyperref Info: bookmark level for unknown conjecture defaults to 0 on i
-nput line 473.
+nput line 433.
 Package hyperref Info: bookmark level for unknown problem defaults to 0 on inpu
-t line 479.
- [11]
+t line 439.
+ [9] [10]
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 9.03374pt on input line 548.
+(Font)              scaled to size 9.03374pt on input line 508.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 5.0pt on input line 548.
- [12]) [13]
+(Font)              scaled to size 5.0pt on input line 508.
+) [11]
 \openout2 = `data/chap02.aux'.
 
  (./data/chap02.tex
@@ -2497,7 +2466,7 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 5.0pt on input line 31.
 File: figures/thu-whole-logo.eps Graphic file (type eps)
-<figures/thu-whole-logo.eps> [14
+<figures/thu-whole-logo.eps> [12
 
 
 
@@ -2515,16 +2484,16 @@ File: figures/thu-text-logo.eps Graphic file (type eps)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[15]
+[13]
 File: figures/thu-whole-logo.eps Graphic file (type eps)
  <figures/thu-whole-logo.eps>
 File: figures/thu-whole-logo.eps Graphic file (type eps)
- <figures/thu-whole-logo.eps>) [16]
+ <figures/thu-whole-logo.eps>) [14]
 (./main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [17
+ [15
 
 
 
@@ -2533,14 +2502,14 @@ File: figures/thu-whole-logo.eps Graphic file (type eps)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [18
+ [16
 
 
 ] (./main.loe)
 \tf@loe=\write7
 \openout7 = `main.loe'.
 
- (./main.bbl [19
+ (./main.bbl [17
 
 
 ]
@@ -2554,32 +2523,32 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 7.0pt on input line 11.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.53937pt on input line 105.
- [20
+ [18
 
 
 ])
-[21]
+[19]
 \openout2 = `data/ack.aux'.
 
- (./data/ack.tex [22
+ (./data/ack.tex [20
 
 
 
-]) [23
+]) [21
 
 
 ] (./data/appendix01.tex
 附录 A
-\c@currmpdefctr=\count334
-\c@endmpdefctr=\count335
-\c@mpdef=\count336
+\c@currmpdefctr=\count333
+\c@endmpdefctr=\count334
+\c@mpdef=\count335
 Package hyperref Info: bookmark level for unknown mpdef defaults to 0 on input 
 line 36.
-\c@currmpdefopctr=\count337
-\c@endmpdefopctr=\count338
+\c@currmpdefopctr=\count336
+\c@endmpdefopctr=\count337
 Package hyperref Info: bookmark level for unknown mpdefop defaults to 0 on inpu
 t line 48.
-[24
+[22
 
 
 ]
@@ -2587,25 +2556,25 @@ Overfull \hbox (9.60687pt too wide) in paragraph at lines 99--111
  [][] 
  []
 
-[25]
+[23]
 File: figures/thu-lib-logo.eps Graphic file (type eps)
- <figures/thu-lib-logo.eps> [26]
+ <figures/thu-lib-logo.eps> [24]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sl' will be
 (Font)              scaled to size 12.045pt on input line 169.
- [27] [28]
+ [25] [26]
 附录 B
 
 Overfull \hbox (9.60687pt too wide) in paragraph at lines 208--220
  [][] 
  []
 
-[29
+[27
 
 ]
 File: figures/thu-whole-logo.eps Graphic file (type eps)
- <figures/thu-whole-logo.eps> [30] [31]
+ <figures/thu-whole-logo.eps> [28] [29]
 附录 C
-) [32
+) [30
 
 ]
 \openout2 = `data/resume.aux'.
@@ -2613,11 +2582,11 @@ File: figures/thu-whole-logo.eps Graphic file (type eps)
  (./data/resume.tex
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 14.05249pt on input line 3.
- [33
+ [31
 
 
 
-]) [34]
+]) [32]
 File: figures/scan-record.pdf Graphic file (type QTm)
  <use  "figures/scan-record.pdf" >
 File: figures/scan-record.pdf Graphic file (type QTm)
@@ -2636,7 +2605,7 @@ File: figures/scan-record.pdf Graphic file (type QTm)
 <use  "figures/scan-record.pdf"  page1>
 File: figures/scan-record.pdf Graphic file (type QTm)
 
-<use  "figures/scan-record.pdf"  page1> [35
+<use  "figures/scan-record.pdf"  page1> [33
 
 ]
 File: figures/scan-record.pdf Graphic file (type QTm)
@@ -2647,7 +2616,7 @@ File: figures/scan-record.pdf Graphic file (type QTm)
 <use  "figures/scan-record.pdf"  page2>
 File: figures/scan-record.pdf Graphic file (type QTm)
 
-<use  "figures/scan-record.pdf"  page2> [36]
+<use  "figures/scan-record.pdf"  page2> [34]
 \tf@thm=\write8
 \openout8 = `main.thm'.
 
@@ -2664,12 +2633,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 37056 strings out of 493591
- 704539 string characters out of 6143546
- 692363 words of memory out of 5000000
- 39890 multiletter control sequences out of 15000+600000
- 180909 words of font info for 312 fonts, out of 8000000 for 9000
+ 36861 strings out of 493591
+ 692690 string characters out of 6143546
+ 687282 words of memory out of 5000000
+ 39702 multiletter control sequences out of 15000+600000
+ 180885 words of font info for 309 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  70i,23n,96p,10437b,773s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (44 pages).
+Output written on main.pdf (42 pages).
