@@ -75,13 +75,13 @@
   \item \verb*+\abovedisplayskip+\pfill \hdclindex{354}{}{152}, 
 		\hdclindex{356}{}{154}
   \item {\ttfamily achievements} (environment)\pfill 
-		\hdclindex{159}{usage}{17}, 
+		\hdclindex{159}{usage}{18}, 
 		\hdclindex{1336}{main}{1045}
   \item \verb*+\ack+\pfill \hdclindex{1226}{}{950}
   \item {\ttfamily ack} (environment)\pfill \hdclindex{1225}{main}{950}
   \item \verb*+\acknowledgement+\pfill \hdclindex{1226}{}{950}
   \item {\ttfamily acknowledgement} (environment)\pfill 
-		\hdclindex{146}{usage}{15}, 
+		\hdclindex{146}{usage}{16}, 
 		\hdclindex{1197}{main}{922}
   \item \verb*+\addcontentsline+\pfill \hdclindex{623}{}{386}, 
 		\hdclindex{626}{}{389}, \hdclindex{1221}{}{945}, 
@@ -97,11 +97,11 @@
   \item \verb*+\alph+\pfill \hdclindex{515}{}{287}, 
 		\hdclindex{516}{}{288}
   \item {\ttfamily amsmath} (package)\pfill \hdclindex{145}{usage}{15}, 
-		\hdclindex{271}{usage}{22}, \hdclindex{454}{usage}{28}, 
-		\hdclindex{455}{usage}{28}, 
-		\hdclindex{1248}{usage}{48}, 
-		\hdclindex{1382}{usage}{53}, 
-		\hdclindex{1386}{usage}{54}
+		\hdclindex{271}{usage}{23}, \hdclindex{454}{usage}{29}, 
+		\hdclindex{455}{usage}{29}, 
+		\hdclindex{1248}{usage}{49}, 
+		\hdclindex{1382}{usage}{54}, 
+		\hdclindex{1386}{usage}{55}
   \item \verb*+\appendix+\pfill \hdclindex{503}{}{275}, 
 		\hdclindex{504}{}{276}, \hdclindex{1302}{}{1013}
   \item {\ttfamily appendix} (environment)\pfill 
@@ -112,9 +112,9 @@
 		\hdclindex{503}{}{275}, \hdclindex{504}{}{276}, 
 		\hdclindex{1314}{}{1024}, \hdclindex{1338}{}{1046}, 
 		\hdclindex{1341}{}{1049}
-  \item {\ttfamily arial} (package)\pfill \hdclindex{1362}{usage}{51}
-  \item {\ttfamily arialtitle} (option)\pfill \hdclindex{45}{usage}{8}
-  \item {\ttfamily arialtoc} (option)\pfill \hdclindex{44}{usage}{8}
+  \item {\ttfamily arial} (package)\pfill \hdclindex{1362}{usage}{52}
+  \item {\ttfamily arialtitle} (option)\pfill \hdclindex{45}{usage}{9}
+  \item {\ttfamily arialtoc} (option)\pfill \hdclindex{44}{usage}{9}
   \item \verb*+\AtEndOfClass+\pfill \hdclindex{1357}{}{1062}, 
 		\hdclindex{1358}{}{1063}
 
@@ -137,12 +137,12 @@
   \item \verb*+\bigskip+\pfill \hdclindex{1344}{}{1051}
   \item \verb*+\bigstar+\pfill \hdclindex{806}{}{536}, 
 		\hdclindex{807}{}{537}
-  \item {\ttfamily book.cls} (file)\pfill \hdclindex{277}{usage}{23}, 
-		\hdclindex{566}{usage}{31}
-  \item {\ttfamily booktabs} (package)\pfill \hdclindex{522}{usage}{29}
+  \item {\ttfamily book.cls} (file)\pfill \hdclindex{277}{usage}{24}, 
+		\hdclindex{566}{usage}{32}
+  \item {\ttfamily booktabs} (package)\pfill \hdclindex{522}{usage}{30}
   \item \verb*+\bottomfraction+\pfill \hdclindex{500}{}{272}
   \item \verb*+\box+\pfill \hdclindex{1155}{}{880}
-  \item {\ttfamily breakurl} (package)\pfill \hdclindex{299}{usage}{23}
+  \item {\ttfamily breakurl} (package)\pfill \hdclindex{299}{usage}{24}
 
   \indexspace
 {\bfseries\hfil C\hfil}\nopagebreak
@@ -153,20 +153,20 @@
   \item \verb*+\c@equation+\pfill \hdclindex{453}{}{227}
   \item \verb*+\c@tocdepth+\pfill \hdclindex{654}{}{416}
   \item {\ttfamily cabstract} (environment)\pfill 
-		\hdclindex{122}{usage}{13}, \hdclindex{752}{main}{488}
+		\hdclindex{122}{usage}{14}, \hdclindex{752}{main}{488}
   \item \verb*+\cabstractname+\pfill \hdclindex{542}{}{311}, 
 		\hdclindex{545}{}{314}, \hdclindex{1160}{}{884}
   \item \verb*+\caffil+\pfill \hdclindex{716}{}{461}, 
 		\hdclindex{718}{}{463}
-  \item {\ttfamily caption} (package)\pfill \hdclindex{253}{usage}{22}, 
-		\hdclindex{1367}{usage}{51}, 
-		\hdclindex{1391}{usage}{55}
-  \item {\ttfamily caption2} (package)\pfill \hdclindex{252}{usage}{22}, 
-		\hdclindex{1366}{usage}{51}
+  \item {\ttfamily caption} (package)\pfill \hdclindex{253}{usage}{23}, 
+		\hdclindex{1367}{usage}{52}, 
+		\hdclindex{1391}{usage}{56}
+  \item {\ttfamily caption2} (package)\pfill \hdclindex{252}{usage}{23}, 
+		\hdclindex{1366}{usage}{52}
   \item \verb*+\captionsetup+\pfill \hdclindex{511}{}{283}, 
 		\hdclindex{512}{}{284}, \hdclindex{513}{}{285}, 
 		\hdclindex{514}{}{286}
-  \item \verb*+\cassosupervisor+\pfill \hdclindex{109}{usage}{12}, 
+  \item \verb*+\cassosupervisor+\pfill \hdclindex{109}{usage}{13}, 
 		\hdclindex{696}{main}{450}
   \item \verb*+\catalognumber+\pfill \hdclindex{79}{usage}{10}, 
 		\hdclindex{743}{main}{482}
@@ -182,7 +182,7 @@
 		\hdclindex{737}{main}{480}, \hdclindex{829}{}{559}
   \item \verb*+\cdegree+\pfill \hdclindex{89}{usage}{11}, 
 		\hdclindex{709}{main}{458}
-  \item \verb*+\cdepartment+\pfill \hdclindex{93}{usage}{11}, 
+  \item \verb*+\cdepartment+\pfill \hdclindex{93}{usage}{12}, 
 		\hdclindex{713}{main}{460}
   \item \verb*+\centerline+\pfill \hdclindex{1333}{}{1042}, 
 		\hdclindex{1336}{}{1044}
@@ -191,7 +191,7 @@
   \item \verb*+\chapter+\pfill \hdclindex{628}{}{391}
   \item \verb*+\chaptermark+\pfill \hdclindex{571}{}{335}
   \item {\ttfamily chinesebst.bst} (file)\pfill 
-		\hdclindex{1375}{usage}{52}
+		\hdclindex{1375}{usage}{53}
   \item \verb*+\chuhao+\pfill \hdclindex{57}{usage}{9}, 
 		\hdclindex{362}{main}{159}
   \item \verb*+\citep+\pfill \hdclindex{1266}{}{980}
@@ -210,15 +210,15 @@
 		\hdclindex{829}{}{559}
   \item \verb*+\CJK@todaysmall@short+\pfill \hdclindex{549}{}{318}, 
 		\hdclindex{884}{}{613}
-  \item {\ttfamily CJKfntef} (package)\pfill \hdclindex{269}{usage}{22}
+  \item {\ttfamily CJKfntef} (package)\pfill \hdclindex{269}{usage}{23}
   \item {\ttfamily CJKspace} (package)\pfill 
-		\hdclindex{1399}{usage}{56}, 
-		\hdclindex{1415}{usage}{56}
+		\hdclindex{1399}{usage}{57}, 
+		\hdclindex{1415}{usage}{57}
   \item \verb*+\CJKtoday+\pfill \hdclindex{555}{}{324}
   \item \verb*+\CJKunderline+\pfill \hdclindex{935}{}{664}
   \item \verb*+\CJKunderlinebasesep+\pfill \hdclindex{928}{}{657}
   \item \verb*+\CJKunderlinecolor+\pfill \hdclindex{933}{}{662}
-  \item \verb*+\ckeywords+\pfill \hdclindex{125}{usage}{13}, 
+  \item \verb*+\ckeywords+\pfill \hdclindex{125}{usage}{14}, 
 		\hdclindex{770}{main}{503}
   \item \verb*+\ClassError+\pfill \hdclindex{201}{}{27}, 
 		\hdclindex{231}{}{49}, \hdclindex{432}{}{206}, 
@@ -244,26 +244,26 @@
   \item \verb*+\color+\pfill \hdclindex{931}{}{660}, 
 		\hdclindex{933}{}{662}
   \item \verb*+\contentsname+\pfill \hdclindex{643}{}{405}
-  \item {\ttfamily courier} (package)\pfill \hdclindex{246}{usage}{22}, 
-		\hdclindex{1369}{usage}{51}, 
-		\hdclindex{1417}{usage}{56}
+  \item {\ttfamily courier} (package)\pfill \hdclindex{246}{usage}{23}, 
+		\hdclindex{1369}{usage}{52}, 
+		\hdclindex{1417}{usage}{57}
   \item \verb*+\cseconddiscipline+\pfill \hdclindex{103}{usage}{12}, 
 		\hdclindex{745}{main}{482}
   \item \verb*+\csubject+\pfill \hdclindex{728}{}{471}, 
 		\hdclindex{730}{}{473}
-  \item \verb*+\csupervisor+\pfill \hdclindex{105}{usage}{12}, 
+  \item \verb*+\csupervisor+\pfill \hdclindex{105}{usage}{13}, 
 		\hdclindex{695}{main}{450}
-  \item {\ttfamily ctex} (package)\pfill \hdclindex{225}{usage}{21}, 
-		\hdclindex{1397}{usage}{55}, 
-		\hdclindex{1398}{usage}{55}, 
-		\hdclindex{1404}{usage}{56}, 
-		\hdclindex{1414}{usage}{56}
-  \item {\ttfamily ctexbook} (package)\pfill \hdclindex{213}{usage}{21}, 
-		\hdclindex{218}{usage}{21}, \hdclindex{224}{usage}{21}
+  \item {\ttfamily ctex} (package)\pfill \hdclindex{225}{usage}{22}, 
+		\hdclindex{1397}{usage}{56}, 
+		\hdclindex{1398}{usage}{56}, 
+		\hdclindex{1404}{usage}{57}, 
+		\hdclindex{1414}{usage}{57}
+  \item {\ttfamily ctexbook} (package)\pfill \hdclindex{213}{usage}{22}, 
+		\hdclindex{218}{usage}{22}, \hdclindex{224}{usage}{22}
   \item \verb*+\ctexset+\pfill \hdclindex{421}{}{197}, 
 		\hdclindex{528}{}{297}, \hdclindex{579}{}{343}
   \item \verb*+\CTEXthechapter+\pfill \hdclindex{571}{}{335}
-  \item \verb*+\ctitle+\pfill \hdclindex{81}{usage}{10}, 
+  \item \verb*+\ctitle+\pfill \hdclindex{81}{usage}{11}, 
 		\hdclindex{689}{main}{448}
   \item \verb*+\CurrentOption+\pfill \hdclindex{200}{}{26}, 
 		\hdclindex{201}{}{27}, \hdclindex{202}{}{28}, 
@@ -277,7 +277,7 @@
   \item {\ttfamily data/cover.tex} (file)\pfill 
 		\hdclindex{69}{usage}{10}
   \item {\ttfamily data/resume.tex} (file)\pfill 
-		\hdclindex{160}{usage}{17}
+		\hdclindex{160}{usage}{18}
   \item \verb*+\dawu+\pfill \hdclindex{373}{main}{159}, 
 		\hdclindex{507}{}{279}, \hdclindex{508}{}{280}, 
 		\hdclindex{510}{}{282}, \hdclindex{520}{}{291}
@@ -311,13 +311,13 @@
 {\bfseries\hfil E\hfil}\nopagebreak
 
   \item {\ttfamily eabstract} (environment)\pfill 
-		\hdclindex{123}{usage}{13}, \hdclindex{752}{main}{488}
+		\hdclindex{123}{usage}{14}, \hdclindex{752}{main}{488}
   \item \verb*+\eabstractname+\pfill \hdclindex{543}{}{312}, 
 		\hdclindex{546}{}{315}, \hdclindex{575}{}{339}, 
 		\hdclindex{1170}{}{894}
   \item \verb*+\eaffil+\pfill \hdclindex{721}{}{466}, 
 		\hdclindex{723}{}{468}
-  \item \verb*+\eassosupervisor+\pfill \hdclindex{111}{usage}{12}, 
+  \item \verb*+\eassosupervisor+\pfill \hdclindex{111}{usage}{13}, 
 		\hdclindex{699}{main}{450}
   \item \verb*+\eauthor+\pfill \hdclindex{87}{usage}{11}, 
 		\hdclindex{694}{main}{450}
@@ -327,9 +327,9 @@
 		\hdclindex{738}{main}{480}, \hdclindex{830}{}{560}
   \item \verb*+\edegree+\pfill \hdclindex{91}{usage}{11}, 
 		\hdclindex{710}{main}{458}
-  \item \verb*+\edepartment+\pfill \hdclindex{95}{usage}{11}, 
+  \item \verb*+\edepartment+\pfill \hdclindex{95}{usage}{12}, 
 		\hdclindex{714}{main}{460}
-  \item \verb*+\ekeywords+\pfill \hdclindex{127}{usage}{13}, 
+  \item \verb*+\ekeywords+\pfill \hdclindex{127}{usage}{14}, 
 		\hdclindex{771}{main}{503}
   \item \verb*+\emajor+\pfill \hdclindex{99}{usage}{12}, 
 		\hdclindex{726}{main}{470}
@@ -342,33 +342,33 @@
   \item {\ttfamily enumerate} (environment)\pfill 
 		\hdclindex{166}{usage}{19}
   \item {\ttfamily enumitem} (package)\pfill \hdclindex{168}{usage}{19}, 
-		\hdclindex{169}{usage}{19}, \hdclindex{425}{usage}{27}, 
-		\hdclindex{1409}{usage}{56}
-  \item {\ttfamily environ} (package)\pfill \hdclindex{753}{usage}{36}, 
-		\hdclindex{1411}{usage}{56}, 
-		\hdclindex{1413}{usage}{56}
+		\hdclindex{169}{usage}{19}, \hdclindex{425}{usage}{28}, 
+		\hdclindex{1409}{usage}{57}
+  \item {\ttfamily environ} (package)\pfill \hdclindex{753}{usage}{37}, 
+		\hdclindex{1411}{usage}{57}, 
+		\hdclindex{1413}{usage}{57}
   \item environments:\efill 
  \subitem {\ttfamily achievements}\pfill 
-		\hdclindex{159}{usage}{17}, 
+		\hdclindex{159}{usage}{18}, 
 		\hdclindex{1336}{main}{1045}
     \subitem {\ttfamily ack}\pfill \hdclindex{1225}{main}{950}
     \subitem {\ttfamily acknowledgement}\pfill 
-		\hdclindex{146}{usage}{15}, 
+		\hdclindex{146}{usage}{16}, 
 		\hdclindex{1197}{main}{922}
     \subitem {\ttfamily appendix}\pfill \hdclindex{147}{usage}{16}, 
 		\hdclindex{1300}{main}{1012}
-    \subitem {\ttfamily cabstract}\pfill \hdclindex{122}{usage}{13}, 
+    \subitem {\ttfamily cabstract}\pfill \hdclindex{122}{usage}{14}, 
 		\hdclindex{752}{main}{488}
     \subitem {\ttfamily denotation}\pfill \hdclindex{130}{usage}{14}, 
 		\hdclindex{1175}{main}{900}
     \subitem {\ttfamily description}\pfill \hdclindex{167}{usage}{19}
-    \subitem {\ttfamily eabstract}\pfill \hdclindex{123}{usage}{13}, 
+    \subitem {\ttfamily eabstract}\pfill \hdclindex{123}{usage}{14}, 
 		\hdclindex{752}{main}{488}
     \subitem {\ttfamily enumerate}\pfill \hdclindex{166}{usage}{19}
     \subitem {\ttfamily itemize}\pfill \hdclindex{165}{usage}{19}
-    \subitem {\ttfamily publications}\pfill \hdclindex{156}{usage}{16}, 
+    \subitem {\ttfamily publications}\pfill \hdclindex{156}{usage}{17}, 
 		\hdclindex{1336}{main}{1045}
-    \subitem {\ttfamily resume}\pfill \hdclindex{151}{usage}{16}, 
+    \subitem {\ttfamily resume}\pfill \hdclindex{151}{usage}{17}, 
 		\hdclindex{1316}{main}{1027}
     \subitem {\ttfamily thebibliography}\pfill 
 		\hdclindex{1276}{main}{988}
@@ -388,9 +388,9 @@
 		\hdclindex{1041}{}{769}, \hdclindex{1089}{}{816}
   \item \verb*+\esubject+\pfill \hdclindex{733}{}{476}, 
 		\hdclindex{735}{}{478}
-  \item \verb*+\esupervisor+\pfill \hdclindex{107}{usage}{12}, 
+  \item \verb*+\esupervisor+\pfill \hdclindex{107}{usage}{13}, 
 		\hdclindex{698}{main}{450}
-  \item \verb*+\etitle+\pfill \hdclindex{83}{usage}{10}, 
+  \item \verb*+\etitle+\pfill \hdclindex{83}{usage}{11}, 
 		\hdclindex{690}{main}{448}
   \item \verb*+\ext@equation+\pfill \hdclindex{1249}{}{967}, 
 		\hdclindex{1251}{}{969}
@@ -405,36 +405,36 @@
 
   \item \verb*+\fancyfoot+\pfill \hdclindex{409}{}{185}, 
 		\hdclindex{415}{}{191}, \hdclindex{416}{}{192}
-  \item {\ttfamily fancyhdr} (package)\pfill \hdclindex{324}{usage}{24}, 
-		\hdclindex{564}{usage}{30}, \hdclindex{565}{usage}{30}, 
-		\hdclindex{567}{usage}{31}, \hdclindex{568}{usage}{31}, 
-		\hdclindex{1371}{usage}{52}, 
-		\hdclindex{1401}{usage}{56}
+  \item {\ttfamily fancyhdr} (package)\pfill \hdclindex{324}{usage}{25}, 
+		\hdclindex{564}{usage}{31}, \hdclindex{565}{usage}{31}, 
+		\hdclindex{567}{usage}{32}, \hdclindex{568}{usage}{32}, 
+		\hdclindex{1371}{usage}{53}, 
+		\hdclindex{1401}{usage}{57}
   \item \verb*+\fancyhead+\pfill \hdclindex{408}{}{184}, 
 		\hdclindex{413}{}{189}, \hdclindex{414}{}{190}
   \item \verb*+\fancyhf+\pfill \hdclindex{404}{}{180}
   \item \verb*+\fancypagestyle+\pfill \hdclindex{403}{}{179}, 
 		\hdclindex{407}{}{183}, \hdclindex{412}{}{188}
   \item {\ttfamily fancyref} (package)\pfill 
-		\hdclindex{1360}{usage}{51}
+		\hdclindex{1360}{usage}{52}
   \item \verb*+\fangsong+\pfill \hdclindex{51}{usage}{9}, 
 		\hdclindex{955}{}{684}, \hdclindex{981}{}{710}, 
 		\hdclindex{1349}{}{1055}
   \item {\ttfamily figures/} (file)\pfill \hdclindex{17}{usage}{4}
   \item file:\efill 
- \subitem {\ttfamily book.cls}\pfill \hdclindex{277}{usage}{23}, 
-		\hdclindex{566}{usage}{31}
+ \subitem {\ttfamily book.cls}\pfill \hdclindex{277}{usage}{24}, 
+		\hdclindex{566}{usage}{32}
     \subitem {\ttfamily chinesebst.bst}\pfill 
-		\hdclindex{1375}{usage}{52}
+		\hdclindex{1375}{usage}{53}
     \subitem {\ttfamily data/}\pfill \hdclindex{16}{usage}{4}, 
 		\hdclindex{37}{usage}{6}
     \subitem {\ttfamily data/cover.tex}\pfill \hdclindex{69}{usage}{10}
     \subitem {\ttfamily data/resume.tex}\pfill 
-		\hdclindex{160}{usage}{17}
+		\hdclindex{160}{usage}{18}
     \subitem {\ttfamily figures/}\pfill \hdclindex{17}{usage}{4}
     \subitem {\ttfamily latexmkrc}\pfill \hdclindex{26}{usage}{5}
     \subitem {\ttfamily main.tex}\pfill \hdclindex{12}{usage}{4}, 
-		\hdclindex{36}{usage}{6}, \hdclindex{164}{usage}{18}
+		\hdclindex{36}{usage}{6}, \hdclindex{164}{usage}{19}
     \subitem {\ttfamily Makefile}\pfill \hdclindex{20}{usage}{4}, 
 		\hdclindex{21}{usage}{5}, \hdclindex{22}{usage}{5}, 
 		\hdclindex{23}{usage}{5}, \hdclindex{24}{usage}{5}
@@ -443,18 +443,18 @@
     \subitem {\ttfamily ref/}\pfill \hdclindex{18}{usage}{4}
     \subitem {\ttfamily shuji.tex}\pfill \hdclindex{13}{usage}{4}, 
 		\hdclindex{172}{usage}{19}, 
-		\hdclindex{1368}{usage}{51}
-    \subitem {\ttfamily thubib.bst}\pfill \hdclindex{1374}{usage}{52}, 
-		\hdclindex{1376}{usage}{52}, 
-		\hdclindex{1379}{usage}{53}, 
-		\hdclindex{1385}{usage}{54}
+		\hdclindex{1368}{usage}{52}
+    \subitem {\ttfamily thubib.bst}\pfill \hdclindex{1374}{usage}{53}, 
+		\hdclindex{1376}{usage}{53}, 
+		\hdclindex{1379}{usage}{54}, 
+		\hdclindex{1385}{usage}{55}
     \subitem {\ttfamily thuthesis-vX.Y.Z}\pfill \hdclindex{8}{usage}{4}
     \subitem {\ttfamily thuthesis.bst}\pfill \hdclindex{11}{usage}{4}, 
 		\hdclindex{29}{usage}{5}, \hdclindex{32}{usage}{5}, 
 		\hdclindex{35}{usage}{6}, \hdclindex{163}{usage}{18}
     \subitem {\ttfamily thuthesis.cfg}\pfill \hdclindex{2}{usage}{4}, 
 		\hdclindex{6}{usage}{4}, \hdclindex{31}{usage}{5}, 
-		\hdclindex{34}{usage}{6}, \hdclindex{173}{usage}{19}
+		\hdclindex{34}{usage}{6}, \hdclindex{173}{usage}{20}
     \subitem {\ttfamily thuthesis.cls}\pfill \hdclindex{15}{usage}{4}, 
 		\hdclindex{1}{usage}{4}, \hdclindex{5}{usage}{4}, 
 		\hdclindex{30}{usage}{5}, \hdclindex{33}{usage}{6}
@@ -467,11 +467,11 @@
   \item \verb*+\floatpagefraction+\pfill \hdclindex{501}{}{273}
   \item \verb*+\floatsep+\pfill \hdclindex{492}{}{264}
   \item \verb*+\fontsize+\pfill \hdclindex{361}{}{158}
-  \item {\ttfamily fontspec} (package)\pfill \hdclindex{220}{usage}{21}, 
-		\hdclindex{222}{usage}{21}
+  \item {\ttfamily fontspec} (package)\pfill \hdclindex{220}{usage}{22}, 
+		\hdclindex{222}{usage}{22}
   \item {\ttfamily footmisc} (package)\pfill 
-		\hdclindex{1373}{usage}{52}, 
-		\hdclindex{1412}{usage}{56}
+		\hdclindex{1373}{usage}{53}, 
+		\hdclindex{1412}{usage}{57}
   \item \verb*+\footnotemargin+\pfill \hdclindex{445}{}{219}
   \item \verb*+\footnoterule+\pfill \hdclindex{442}{}{216}
   \item \verb*+\footrulewidth+\pfill \hdclindex{406}{}{182}, 
@@ -494,8 +494,8 @@
   \item \verb*+\geometry+\pfill \hdclindex{302}{}{106}, 
 		\hdclindex{308}{}{112}, \hdclindex{316}{}{120}
   \item {\ttfamily geometry} (package)\pfill 
-		\hdclindex{1372}{usage}{52}, 
-		\hdclindex{1405}{usage}{56}
+		\hdclindex{1372}{usage}{53}, 
+		\hdclindex{1405}{usage}{57}
 
   \indexspace
 {\bfseries\hfil H\hfil}\nopagebreak
@@ -518,7 +518,7 @@
 		\hdclindex{925}{}{654}, \hdclindex{942}{}{671}, 
 		\hdclindex{1089}{}{816}, \hdclindex{1169}{}{893}, 
 		\hdclindex{1333}{}{1042}, \hdclindex{1336}{}{1044}
-  \item {\ttfamily helvet} (package)\pfill \hdclindex{1363}{usage}{51}
+  \item {\ttfamily helvet} (package)\pfill \hdclindex{1363}{usage}{52}
   \item \verb*+\hfill+\pfill \hdclindex{666}{}{428}, 
 		\hdclindex{872}{}{601}, \hdclindex{875}{}{604}, 
 		\hdclindex{1002}{}{731}, \hdclindex{1100}{}{827}, 
@@ -537,9 +537,9 @@
 		\hdclindex{1206}{}{930}
   \item \verb*+\hss+\pfill \hdclindex{861}{}{590}
   \item {\ttfamily hypernat} (package)\pfill 
-		\hdclindex{1393}{usage}{55}
-  \item {\ttfamily hyperref} (package)\pfill \hdclindex{278}{usage}{23}, 
-		\hdclindex{1394}{usage}{55}
+		\hdclindex{1393}{usage}{56}
+  \item {\ttfamily hyperref} (package)\pfill \hdclindex{278}{usage}{24}, 
+		\hdclindex{1394}{usage}{56}
   \item \verb*+\hypersetup+\pfill \hdclindex{283}{}{88}, 
 		\hdclindex{286}{}{91}, \hdclindex{290}{}{95}, 
 		\hdclindex{1110}{}{836}
@@ -626,7 +626,7 @@
   \item \verb*+\indent+\pfill \hdclindex{1095}{}{822}, 
 		\hdclindex{1154}{}{879}
   \item {\ttfamily indentfirst} (package)\pfill 
-		\hdclindex{1396}{usage}{55}
+		\hdclindex{1396}{usage}{56}
   \item \verb*+\inlinecite+\pfill \hdclindex{162}{usage}{18}, 
 		\hdclindex{1258}{main}{974}
   \item \verb*+\input+\pfill \hdclindex{1357}{}{1062}
@@ -644,8 +644,8 @@
   \item \verb*+\kaishu+\pfill \hdclindex{55}{usage}{9}
   \item \verb*+\kern+\pfill \hdclindex{1263}{}{977}
   \item {\ttfamily kvoptions} (package)\pfill \hdclindex{68}{usage}{10}, 
-		\hdclindex{188}{usage}{20}, 
-		\hdclindex{1402}{usage}{56}
+		\hdclindex{188}{usage}{21}, 
+		\hdclindex{1402}{usage}{57}
   \item \verb*+\kvsetkeys+\pfill \hdclindex{187}{}{14}, 
 		\hdclindex{200}{}{26}, \hdclindex{215}{}{39}, 
 		\hdclindex{775}{}{505}
@@ -676,27 +676,27 @@
   \item \verb*+\list+\pfill \hdclindex{1281}{}{992}
   \item \verb*+\listequationname+\pfill \hdclindex{539}{}{308}
   \item \verb*+\listof+\pfill \hdclindex{1234}{}{954}
-  \item \verb*+\listofequations+\pfill \hdclindex{142}{usage}{14}, 
+  \item \verb*+\listofequations+\pfill \hdclindex{142}{usage}{15}, 
 		\hdclindex{1253}{main}{971}
-  \item \verb*+\listofequations*+\pfill \hdclindex{144}{usage}{14}, 
+  \item \verb*+\listofequations*+\pfill \hdclindex{144}{usage}{15}, 
 		\hdclindex{1254}{main}{971}
-  \item \verb*+\listoffigures+\pfill \hdclindex{134}{usage}{14}, 
+  \item \verb*+\listoffigures+\pfill \hdclindex{134}{usage}{15}, 
 		\hdclindex{1229}{main}{953}
-  \item \verb*+\listoffigures*+\pfill \hdclindex{136}{usage}{14}, 
+  \item \verb*+\listoffigures*+\pfill \hdclindex{136}{usage}{15}, 
 		\hdclindex{1230}{main}{953}
-  \item \verb*+\listoftables+\pfill \hdclindex{138}{usage}{14}, 
+  \item \verb*+\listoftables+\pfill \hdclindex{138}{usage}{15}, 
 		\hdclindex{1231}{main}{953}
-  \item \verb*+\listoftables*+\pfill \hdclindex{140}{usage}{14}, 
+  \item \verb*+\listoftables*+\pfill \hdclindex{140}{usage}{15}, 
 		\hdclindex{1232}{main}{953}
   \item \verb*+\listparindent+\pfill \hdclindex{1132}{}{858}
   \item \verb*+\liuhao+\pfill \hdclindex{376}{main}{159}
   \item \verb*+\long+\pfill \hdclindex{754}{}{488}, 
 		\hdclindex{756}{}{490}
   \item {\ttfamily longtable} (package)\pfill 
-		\hdclindex{518}{usage}{29}, 
-		\hdclindex{1383}{usage}{53}, 
-		\hdclindex{1384}{usage}{54}, 
-		\hdclindex{1392}{usage}{55}
+		\hdclindex{518}{usage}{30}, 
+		\hdclindex{1383}{usage}{54}, 
+		\hdclindex{1384}{usage}{55}, 
+		\hdclindex{1392}{usage}{56}
   \item \verb*+\LT@array+\pfill \hdclindex{519}{}{290}, 
 		\hdclindex{520}{}{291}
 
@@ -705,7 +705,7 @@
 
   \item \verb*+\m@th+\pfill \hdclindex{666}{}{428}
   \item {\ttfamily main.tex} (file)\pfill \hdclindex{12}{usage}{4}, 
-		\hdclindex{36}{usage}{6}, \hdclindex{164}{usage}{18}
+		\hdclindex{36}{usage}{6}, \hdclindex{164}{usage}{19}
   \item \verb*+\mainmatter+\pfill \hdclindex{334}{main}{135}
   \item \verb*+\make@df@tag+\pfill \hdclindex{456}{}{228}
   \item \verb*+\make@df@tag@@@+\pfill \hdclindex{456}{}{228}
@@ -721,7 +721,7 @@
 		\hdclindex{462}{}{234}, \hdclindex{466}{}{238}, 
 		\hdclindex{467}{}{239}
   \item {\ttfamily mathptmx} (package)\pfill 
-		\hdclindex{1388}{usage}{54}
+		\hdclindex{1388}{usage}{55}
   \item \verb*+\mbox+\pfill \hdclindex{1095}{}{822}
   \item \verb*+\MessageBreak+\pfill \hdclindex{201}{}{27}, 
 		\hdclindex{232}{}{50}
@@ -737,8 +737,8 @@
   \item \verb*+\NAT@@open+\pfill \hdclindex{1263}{}{977}
   \item \verb*+\NAT@citenum+\pfill \hdclindex{1266}{}{980}
   \item \verb*+\NAT@citesuper+\pfill \hdclindex{1262}{}{976}
-  \item {\ttfamily natbib} (package)\pfill \hdclindex{1259}{usage}{48}, 
-		\hdclindex{1395}{usage}{55}
+  \item {\ttfamily natbib} (package)\pfill \hdclindex{1259}{usage}{49}, 
+		\hdclindex{1395}{usage}{56}
   \item \verb*+\NeedsTeXFormat+\pfill \hdclindex{174}{}{1}
   \item \verb*+\newbox+\pfill \hdclindex{1150}{}{875}
   \item \verb*+\NewDocumentCommand+\pfill \hdclindex{613}{}{376}, 
@@ -759,17 +759,17 @@
 		\hdclindex{484}{}{256}, \hdclindex{485}{}{257}, 
 		\hdclindex{486}{}{258}, \hdclindex{487}{}{259}, 
 		\hdclindex{488}{}{260}, \hdclindex{489}{}{261}
-  \item {\ttfamily newtx} (package)\pfill \hdclindex{242}{usage}{22}, 
-		\hdclindex{245}{usage}{22}, 
-		\hdclindex{1406}{usage}{56}, 
-		\hdclindex{1407}{usage}{56}, 
-		\hdclindex{1410}{usage}{56}
+  \item {\ttfamily newtx} (package)\pfill \hdclindex{242}{usage}{23}, 
+		\hdclindex{245}{usage}{23}, 
+		\hdclindex{1406}{usage}{57}, 
+		\hdclindex{1407}{usage}{57}, 
+		\hdclindex{1410}{usage}{57}
   \item \verb*+\noalign+\pfill \hdclindex{524}{}{293}
   \item \verb*+\nobreak+\pfill \hdclindex{667}{}{429}
   \item \verb*+\normalcolor+\pfill \hdclindex{667}{}{429}
   \item \verb*+\normalsize+\pfill \hdclindex{350}{main}{149}
   \item {\ttfamily ntheorem} (package)\pfill 
-		\hdclindex{1370}{usage}{52}
+		\hdclindex{1370}{usage}{53}
   \item \verb*+\numberline+\pfill \hdclindex{1235}{}{955}, 
 		\hdclindex{1236}{}{956}, \hdclindex{1238}{}{958}, 
 		\hdclindex{1252}{}{970}
@@ -783,14 +783,14 @@
   \item \verb*+\oldnumberline+\pfill \hdclindex{1235}{}{955}, 
 		\hdclindex{1236}{}{956}, \hdclindex{1238}{}{958}
   \item \verb*+\onlinecite+\pfill \hdclindex{1267}{}{981}
-  \item {\ttfamily openany} (option)\pfill \hdclindex{42}{usage}{8}
-  \item {\ttfamily openright} (option)\pfill \hdclindex{43}{usage}{8}
+  \item {\ttfamily openany} (option)\pfill \hdclindex{42}{usage}{9}
+  \item {\ttfamily openright} (option)\pfill \hdclindex{43}{usage}{9}
   \item option:\efill 
- \subitem {\ttfamily arialtitle}\pfill \hdclindex{45}{usage}{8}
-    \subitem {\ttfamily arialtoc}\pfill \hdclindex{44}{usage}{8}
-    \subitem {\ttfamily openany}\pfill \hdclindex{42}{usage}{8}
-    \subitem {\ttfamily openright}\pfill \hdclindex{43}{usage}{8}
-    \subitem {\ttfamily pifootnote}\pfill \hdclindex{40}{usage}{8}
+ \subitem {\ttfamily arialtitle}\pfill \hdclindex{45}{usage}{9}
+    \subitem {\ttfamily arialtoc}\pfill \hdclindex{44}{usage}{9}
+    \subitem {\ttfamily openany}\pfill \hdclindex{42}{usage}{9}
+    \subitem {\ttfamily openright}\pfill \hdclindex{43}{usage}{9}
+    \subitem {\ttfamily pifootnote}\pfill \hdclindex{40}{usage}{9}
     \subitem {\ttfamily secret}\pfill \hdclindex{39}{usage}{8}
     \subitem {\ttfamily type}\pfill \hdclindex{38}{usage}{8}
 
@@ -801,94 +801,94 @@
   \item \verb*+\p@subfigure+\pfill \hdclindex{517}{}{289}
   \item package:\efill 
  \subitem {\ttfamily amsmath}\pfill \hdclindex{145}{usage}{15}, 
-		\hdclindex{271}{usage}{22}, \hdclindex{454}{usage}{28}, 
-		\hdclindex{455}{usage}{28}, 
-		\hdclindex{1248}{usage}{48}, 
-		\hdclindex{1382}{usage}{53}, 
-		\hdclindex{1386}{usage}{54}
-    \subitem {\ttfamily arial}\pfill \hdclindex{1362}{usage}{51}
-    \subitem {\ttfamily booktabs}\pfill \hdclindex{522}{usage}{29}
-    \subitem {\ttfamily breakurl}\pfill \hdclindex{299}{usage}{23}
-    \subitem {\ttfamily caption}\pfill \hdclindex{253}{usage}{22}, 
-		\hdclindex{1367}{usage}{51}, 
-		\hdclindex{1391}{usage}{55}
-    \subitem {\ttfamily caption2}\pfill \hdclindex{252}{usage}{22}, 
-		\hdclindex{1366}{usage}{51}
+		\hdclindex{271}{usage}{23}, \hdclindex{454}{usage}{29}, 
+		\hdclindex{455}{usage}{29}, 
+		\hdclindex{1248}{usage}{49}, 
+		\hdclindex{1382}{usage}{54}, 
+		\hdclindex{1386}{usage}{55}
+    \subitem {\ttfamily arial}\pfill \hdclindex{1362}{usage}{52}
+    \subitem {\ttfamily booktabs}\pfill \hdclindex{522}{usage}{30}
+    \subitem {\ttfamily breakurl}\pfill \hdclindex{299}{usage}{24}
+    \subitem {\ttfamily caption}\pfill \hdclindex{253}{usage}{23}, 
+		\hdclindex{1367}{usage}{52}, 
+		\hdclindex{1391}{usage}{56}
+    \subitem {\ttfamily caption2}\pfill \hdclindex{252}{usage}{23}, 
+		\hdclindex{1366}{usage}{52}
     \subitem {\ttfamily CJK}\pfill \hdclindex{46}{usage}{9}
-    \subitem {\ttfamily CJKfntef}\pfill \hdclindex{269}{usage}{22}
-    \subitem {\ttfamily CJKspace}\pfill \hdclindex{1399}{usage}{56}, 
-		\hdclindex{1415}{usage}{56}
-    \subitem {\ttfamily courier}\pfill \hdclindex{246}{usage}{22}, 
-		\hdclindex{1369}{usage}{51}, 
-		\hdclindex{1417}{usage}{56}
-    \subitem {\ttfamily ctex}\pfill \hdclindex{225}{usage}{21}, 
-		\hdclindex{1397}{usage}{55}, 
-		\hdclindex{1398}{usage}{55}, 
-		\hdclindex{1404}{usage}{56}, 
-		\hdclindex{1414}{usage}{56}
-    \subitem {\ttfamily ctexbook}\pfill \hdclindex{213}{usage}{21}, 
-		\hdclindex{218}{usage}{21}, \hdclindex{224}{usage}{21}
+    \subitem {\ttfamily CJKfntef}\pfill \hdclindex{269}{usage}{23}
+    \subitem {\ttfamily CJKspace}\pfill \hdclindex{1399}{usage}{57}, 
+		\hdclindex{1415}{usage}{57}
+    \subitem {\ttfamily courier}\pfill \hdclindex{246}{usage}{23}, 
+		\hdclindex{1369}{usage}{52}, 
+		\hdclindex{1417}{usage}{57}
+    \subitem {\ttfamily ctex}\pfill \hdclindex{225}{usage}{22}, 
+		\hdclindex{1397}{usage}{56}, 
+		\hdclindex{1398}{usage}{56}, 
+		\hdclindex{1404}{usage}{57}, 
+		\hdclindex{1414}{usage}{57}
+    \subitem {\ttfamily ctexbook}\pfill \hdclindex{213}{usage}{22}, 
+		\hdclindex{218}{usage}{22}, \hdclindex{224}{usage}{22}
     \subitem {\ttfamily enumitem}\pfill \hdclindex{168}{usage}{19}, 
-		\hdclindex{169}{usage}{19}, \hdclindex{425}{usage}{27}, 
-		\hdclindex{1409}{usage}{56}
-    \subitem {\ttfamily environ}\pfill \hdclindex{753}{usage}{36}, 
-		\hdclindex{1411}{usage}{56}, 
-		\hdclindex{1413}{usage}{56}
-    \subitem {\ttfamily fancyhdr}\pfill \hdclindex{324}{usage}{24}, 
-		\hdclindex{564}{usage}{30}, \hdclindex{565}{usage}{30}, 
-		\hdclindex{567}{usage}{31}, \hdclindex{568}{usage}{31}, 
-		\hdclindex{1371}{usage}{52}, 
-		\hdclindex{1401}{usage}{56}
-    \subitem {\ttfamily fancyref}\pfill \hdclindex{1360}{usage}{51}
-    \subitem {\ttfamily fontspec}\pfill \hdclindex{220}{usage}{21}, 
-		\hdclindex{222}{usage}{21}
-    \subitem {\ttfamily footmisc}\pfill \hdclindex{1373}{usage}{52}, 
-		\hdclindex{1412}{usage}{56}
-    \subitem {\ttfamily geometry}\pfill \hdclindex{1372}{usage}{52}, 
-		\hdclindex{1405}{usage}{56}
-    \subitem {\ttfamily helvet}\pfill \hdclindex{1363}{usage}{51}
-    \subitem {\ttfamily hypernat}\pfill \hdclindex{1393}{usage}{55}
-    \subitem {\ttfamily hyperref}\pfill \hdclindex{278}{usage}{23}, 
-		\hdclindex{1394}{usage}{55}
-    \subitem {\ttfamily indentfirst}\pfill \hdclindex{1396}{usage}{55}
+		\hdclindex{169}{usage}{19}, \hdclindex{425}{usage}{28}, 
+		\hdclindex{1409}{usage}{57}
+    \subitem {\ttfamily environ}\pfill \hdclindex{753}{usage}{37}, 
+		\hdclindex{1411}{usage}{57}, 
+		\hdclindex{1413}{usage}{57}
+    \subitem {\ttfamily fancyhdr}\pfill \hdclindex{324}{usage}{25}, 
+		\hdclindex{564}{usage}{31}, \hdclindex{565}{usage}{31}, 
+		\hdclindex{567}{usage}{32}, \hdclindex{568}{usage}{32}, 
+		\hdclindex{1371}{usage}{53}, 
+		\hdclindex{1401}{usage}{57}
+    \subitem {\ttfamily fancyref}\pfill \hdclindex{1360}{usage}{52}
+    \subitem {\ttfamily fontspec}\pfill \hdclindex{220}{usage}{22}, 
+		\hdclindex{222}{usage}{22}
+    \subitem {\ttfamily footmisc}\pfill \hdclindex{1373}{usage}{53}, 
+		\hdclindex{1412}{usage}{57}
+    \subitem {\ttfamily geometry}\pfill \hdclindex{1372}{usage}{53}, 
+		\hdclindex{1405}{usage}{57}
+    \subitem {\ttfamily helvet}\pfill \hdclindex{1363}{usage}{52}
+    \subitem {\ttfamily hypernat}\pfill \hdclindex{1393}{usage}{56}
+    \subitem {\ttfamily hyperref}\pfill \hdclindex{278}{usage}{24}, 
+		\hdclindex{1394}{usage}{56}
+    \subitem {\ttfamily indentfirst}\pfill \hdclindex{1396}{usage}{56}
     \subitem {\ttfamily kvoptions}\pfill \hdclindex{68}{usage}{10}, 
-		\hdclindex{188}{usage}{20}, 
-		\hdclindex{1402}{usage}{56}
-    \subitem {\ttfamily longtable}\pfill \hdclindex{518}{usage}{29}, 
-		\hdclindex{1383}{usage}{53}, 
-		\hdclindex{1384}{usage}{54}, 
-		\hdclindex{1392}{usage}{55}
-    \subitem {\ttfamily mathptmx}\pfill \hdclindex{1388}{usage}{54}
-    \subitem {\ttfamily natbib}\pfill \hdclindex{1259}{usage}{48}, 
-		\hdclindex{1395}{usage}{55}
-    \subitem {\ttfamily newtx}\pfill \hdclindex{242}{usage}{22}, 
-		\hdclindex{245}{usage}{22}, 
-		\hdclindex{1406}{usage}{56}, 
-		\hdclindex{1407}{usage}{56}, 
-		\hdclindex{1410}{usage}{56}
-    \subitem {\ttfamily ntheorem}\pfill \hdclindex{1370}{usage}{52}
-    \subitem {\ttfamily paralist}\pfill \hdclindex{1387}{usage}{54}, 
-		\hdclindex{1403}{usage}{56}
-    \subitem {\ttfamily pdfpages}\pfill \hdclindex{255}{usage}{22}, 
-		\hdclindex{1400}{usage}{56}
-    \subitem {\ttfamily pifont}\pfill \hdclindex{41}{usage}{8}, 
-		\hdclindex{211}{usage}{21}
-    \subitem {\ttfamily subcaption}\pfill \hdclindex{251}{usage}{22}
-    \subitem {\ttfamily subfig}\pfill \hdclindex{250}{usage}{22}, 
-		\hdclindex{1365}{usage}{51}
-    \subitem {\ttfamily subfigure}\pfill \hdclindex{249}{usage}{22}, 
-		\hdclindex{1364}{usage}{51}, 
-		\hdclindex{1380}{usage}{53}
-    \subitem {\ttfamily subtable}\pfill \hdclindex{1381}{usage}{53}
-    \subitem {\ttfamily tgcursor}\pfill \hdclindex{1416}{usage}{56}
-    \subitem {\ttfamily titlesec}\pfill \hdclindex{1378}{usage}{53}
-    \subitem {\ttfamily titletoc}\pfill \hdclindex{1377}{usage}{53}
-    \subitem {\ttfamily txfonts}\pfill \hdclindex{1389}{usage}{54}, 
-		\hdclindex{1408}{usage}{56}
-    \subitem {\ttfamily ucite}\pfill \hdclindex{1361}{usage}{51}
+		\hdclindex{188}{usage}{21}, 
+		\hdclindex{1402}{usage}{57}
+    \subitem {\ttfamily longtable}\pfill \hdclindex{518}{usage}{30}, 
+		\hdclindex{1383}{usage}{54}, 
+		\hdclindex{1384}{usage}{55}, 
+		\hdclindex{1392}{usage}{56}
+    \subitem {\ttfamily mathptmx}\pfill \hdclindex{1388}{usage}{55}
+    \subitem {\ttfamily natbib}\pfill \hdclindex{1259}{usage}{49}, 
+		\hdclindex{1395}{usage}{56}
+    \subitem {\ttfamily newtx}\pfill \hdclindex{242}{usage}{23}, 
+		\hdclindex{245}{usage}{23}, 
+		\hdclindex{1406}{usage}{57}, 
+		\hdclindex{1407}{usage}{57}, 
+		\hdclindex{1410}{usage}{57}
+    \subitem {\ttfamily ntheorem}\pfill \hdclindex{1370}{usage}{53}
+    \subitem {\ttfamily paralist}\pfill \hdclindex{1387}{usage}{55}, 
+		\hdclindex{1403}{usage}{57}
+    \subitem {\ttfamily pdfpages}\pfill \hdclindex{255}{usage}{23}, 
+		\hdclindex{1400}{usage}{57}
+    \subitem {\ttfamily pifont}\pfill \hdclindex{41}{usage}{9}, 
+		\hdclindex{211}{usage}{22}
+    \subitem {\ttfamily subcaption}\pfill \hdclindex{251}{usage}{23}
+    \subitem {\ttfamily subfig}\pfill \hdclindex{250}{usage}{23}, 
+		\hdclindex{1365}{usage}{52}
+    \subitem {\ttfamily subfigure}\pfill \hdclindex{249}{usage}{23}, 
+		\hdclindex{1364}{usage}{52}, 
+		\hdclindex{1380}{usage}{54}
+    \subitem {\ttfamily subtable}\pfill \hdclindex{1381}{usage}{54}
+    \subitem {\ttfamily tgcursor}\pfill \hdclindex{1416}{usage}{57}
+    \subitem {\ttfamily titlesec}\pfill \hdclindex{1378}{usage}{54}
+    \subitem {\ttfamily titletoc}\pfill \hdclindex{1377}{usage}{54}
+    \subitem {\ttfamily txfonts}\pfill \hdclindex{1389}{usage}{55}, 
+		\hdclindex{1408}{usage}{57}
+    \subitem {\ttfamily ucite}\pfill \hdclindex{1361}{usage}{52}
     \subitem {\ttfamily xeCJK}\pfill \hdclindex{47}{usage}{9}, 
-		\hdclindex{221}{usage}{21}, 
-		\hdclindex{1390}{usage}{55}
+		\hdclindex{221}{usage}{22}, 
+		\hdclindex{1390}{usage}{56}
   \item \verb*+\pagenumbering+\pfill \hdclindex{339}{}{138}, 
 		\hdclindex{344}{}{143}, \hdclindex{1166}{}{890}
   \item \verb*+\pagestyle+\pfill \hdclindex{331}{}{133}, 
@@ -900,8 +900,8 @@
 		\hdclindex{1059}{}{787}, \hdclindex{1070}{}{798}, 
 		\hdclindex{1081}{}{809}
   \item {\ttfamily paralist} (package)\pfill 
-		\hdclindex{1387}{usage}{54}, 
-		\hdclindex{1403}{usage}{56}
+		\hdclindex{1387}{usage}{55}, 
+		\hdclindex{1403}{usage}{57}
   \item \verb*+\parbox+\pfill \hdclindex{890}{}{619}, 
 		\hdclindex{917}{}{646}, \hdclindex{926}{}{655}, 
 		\hdclindex{939}{}{668}, \hdclindex{954}{}{683}, 
@@ -920,12 +920,12 @@
 		\hdclindex{652}{}{414}
   \item \verb*+\pdfbookmark+\pfill \hdclindex{621}{}{384}, 
 		\hdclindex{1118}{}{844}
-  \item {\ttfamily pdfpages} (package)\pfill \hdclindex{255}{usage}{22}, 
-		\hdclindex{1400}{usage}{56}
+  \item {\ttfamily pdfpages} (package)\pfill \hdclindex{255}{usage}{23}, 
+		\hdclindex{1400}{usage}{57}
   \item \verb*+\penalty+\pfill \hdclindex{668}{}{430}
-  \item {\ttfamily pifont} (package)\pfill \hdclindex{41}{usage}{8}, 
-		\hdclindex{211}{usage}{21}
-  \item {\ttfamily pifootnote} (option)\pfill \hdclindex{40}{usage}{8}
+  \item {\ttfamily pifont} (package)\pfill \hdclindex{41}{usage}{9}, 
+		\hdclindex{211}{usage}{22}
+  \item {\ttfamily pifootnote} (option)\pfill \hdclindex{40}{usage}{9}
   \item \verb*+\postdoctordate+\pfill \hdclindex{121}{usage}{13}, 
 		\hdclindex{746}{main}{482}
   \item \verb*+\pozhehao+\pfill \hdclindex{1352}{main}{1058}
@@ -937,9 +937,9 @@
   \item \verb*+\ps@thu@headings+\pfill \hdclindex{401}{main}{178}
   \item \verb*+\ps@thu@plain+\pfill \hdclindex{400}{main}{178}
   \item {\ttfamily publications} (environment)\pfill 
-		\hdclindex{156}{usage}{16}, 
+		\hdclindex{156}{usage}{17}, 
 		\hdclindex{1336}{main}{1045}
-  \item \verb*+\publicationskip+\pfill \hdclindex{158}{usage}{16}, 
+  \item \verb*+\publicationskip+\pfill \hdclindex{158}{usage}{17}, 
 		\hdclindex{1343}{main}{1051}
 
   \indexspace
@@ -956,14 +956,14 @@
   \item {\ttfamily ref/} (file)\pfill \hdclindex{18}{usage}{4}
   \item \verb*+\renewenvironment+\pfill \hdclindex{1278}{}{989}, 
 		\hdclindex{1303}{}{1014}
-  \item \verb*+\researchitem+\pfill \hdclindex{155}{usage}{16}, 
+  \item \verb*+\researchitem+\pfill \hdclindex{155}{usage}{17}, 
 		\hdclindex{1334}{main}{1043}
   \item \verb*+\reserved@a+\pfill \hdclindex{525}{}{294}, 
 		\hdclindex{763}{}{496}, \hdclindex{769}{}{502}
   \item {\ttfamily resume} (environment)\pfill 
-		\hdclindex{151}{usage}{16}, 
+		\hdclindex{151}{usage}{17}, 
 		\hdclindex{1316}{main}{1027}
-  \item \verb*+\resumeitem+\pfill \hdclindex{153}{usage}{16}, 
+  \item \verb*+\resumeitem+\pfill \hdclindex{153}{usage}{17}, 
 		\hdclindex{1331}{main}{1041}
   \item \verb*+\rightmargin+\pfill \hdclindex{1135}{}{861}
   \item \verb*+\rightskip+\pfill \hdclindex{659}{}{421}
@@ -997,7 +997,7 @@
 		\hdclindex{1346}{main}{1053}
   \item {\ttfamily shuji.tex} (file)\pfill \hdclindex{13}{usage}{4}, 
 		\hdclindex{172}{usage}{19}, 
-		\hdclindex{1368}{usage}{51}
+		\hdclindex{1368}{usage}{52}
   \item \verb*+\sihao+\pfill \hdclindex{370}{main}{159}, 
 		\hdclindex{595}{}{359}, \hdclindex{889}{}{618}, 
 		\hdclindex{890}{}{619}, \hdclindex{912}{}{641}, 
@@ -1010,20 +1010,20 @@
 		\hdclindex{508}{}{280}, \hdclindex{1011}{}{740}
   \item \verb*+\square+\pfill \hdclindex{473}{}{245}
   \item {\ttfamily subcaption} (package)\pfill 
-		\hdclindex{251}{usage}{22}
-  \item {\ttfamily subfig} (package)\pfill \hdclindex{250}{usage}{22}, 
-		\hdclindex{1365}{usage}{51}
+		\hdclindex{251}{usage}{23}
+  \item {\ttfamily subfig} (package)\pfill \hdclindex{250}{usage}{23}, 
+		\hdclindex{1365}{usage}{52}
   \item {\ttfamily subfigure} (package)\pfill 
-		\hdclindex{249}{usage}{22}, 
-		\hdclindex{1364}{usage}{51}, 
-		\hdclindex{1380}{usage}{53}
+		\hdclindex{249}{usage}{23}, 
+		\hdclindex{1364}{usage}{52}, 
+		\hdclindex{1380}{usage}{54}
   \item {\ttfamily subtable} (package)\pfill 
-		\hdclindex{1381}{usage}{53}
+		\hdclindex{1381}{usage}{54}
 
   \indexspace
 {\bfseries\hfil T\hfil}\nopagebreak
 
-  \item \verb*+\tableofcontents+\pfill \hdclindex{132}{usage}{14}, 
+  \item \verb*+\tableofcontents+\pfill \hdclindex{132}{usage}{15}, 
 		\hdclindex{641}{main}{404}
   \item \verb*+\tagform@+\pfill \hdclindex{462}{}{234}, 
 		\hdclindex{467}{}{239}
@@ -1040,7 +1040,7 @@
 		\hdclindex{890}{}{619}, \hdclindex{917}{}{646}, 
 		\hdclindex{954}{}{683}, \hdclindex{980}{}{709}
   \item {\ttfamily tgcursor} (package)\pfill 
-		\hdclindex{1416}{usage}{56}
+		\hdclindex{1416}{usage}{57}
   \item \verb*+\the+\pfill \hdclindex{436}{}{210}, 
 		\hdclindex{549}{}{318}, \hdclindex{550}{}{319}, 
 		\hdclindex{551}{}{320}, \hdclindex{552}{}{321}, 
@@ -1339,14 +1339,14 @@
 		\hdclindex{1100}{}{827}, \hdclindex{1101}{}{828}, 
 		\hdclindex{1102}{}{829}, \hdclindex{1103}{}{830}, 
 		\hdclindex{1217}{}{941}, \hdclindex{1218}{}{942}
-  \item {\ttfamily thubib.bst} (file)\pfill \hdclindex{1374}{usage}{52}, 
-		\hdclindex{1376}{usage}{52}, 
-		\hdclindex{1379}{usage}{53}, 
-		\hdclindex{1385}{usage}{54}
+  \item {\ttfamily thubib.bst} (file)\pfill \hdclindex{1374}{usage}{53}, 
+		\hdclindex{1376}{usage}{53}, 
+		\hdclindex{1379}{usage}{54}, 
+		\hdclindex{1385}{usage}{55}
   \item \verb*+\thudot+\pfill \hdclindex{1268}{main}{982}
   \item \verb*+\thumasterbib+\pfill \hdclindex{1271}{main}{984}
   \item \verb*+\thuphdbib+\pfill \hdclindex{1272}{main}{984}
-  \item \verb*+\thusetup+\pfill \hdclindex{67}{usage}{9}, 
+  \item \verb*+\thusetup+\pfill \hdclindex{67}{usage}{10}, 
 		\hdclindex{774}{main}{505}
   \item \verb*+\thuthesis+\pfill \hdclindex{180}{}{7}, 
 		\hdclindex{1115}{}{841}
@@ -1357,7 +1357,7 @@
 		\hdclindex{35}{usage}{6}, \hdclindex{163}{usage}{18}
   \item {\ttfamily thuthesis.cfg} (file)\pfill \hdclindex{2}{usage}{4}, 
 		\hdclindex{6}{usage}{4}, \hdclindex{31}{usage}{5}, 
-		\hdclindex{34}{usage}{6}, \hdclindex{173}{usage}{19}
+		\hdclindex{34}{usage}{6}, \hdclindex{173}{usage}{20}
   \item {\ttfamily thuthesis.cls} (file)\pfill \hdclindex{15}{usage}{4}, 
 		\hdclindex{1}{usage}{4}, \hdclindex{5}{usage}{4}, 
 		\hdclindex{30}{usage}{5}, \hdclindex{33}{usage}{6}
@@ -1371,9 +1371,9 @@
 		\hdclindex{1304}{}{1015}, \hdclindex{1306}{}{1017}, 
 		\hdclindex{1307}{main}{1018}
   \item {\ttfamily titlesec} (package)\pfill 
-		\hdclindex{1378}{usage}{53}
+		\hdclindex{1378}{usage}{54}
   \item {\ttfamily titletoc} (package)\pfill 
-		\hdclindex{1377}{usage}{53}
+		\hdclindex{1377}{usage}{54}
   \item \verb*+\today+\pfill \hdclindex{548}{}{317}, 
 		\hdclindex{554}{}{323}
   \item \verb*+\topfraction+\pfill \hdclindex{499}{}{271}
@@ -1381,14 +1381,14 @@
   \item {\ttfamily translationbib} (environment)\pfill 
 		\hdclindex{150}{usage}{16}, 
 		\hdclindex{1312}{main}{1023}
-  \item {\ttfamily txfonts} (package)\pfill \hdclindex{1389}{usage}{54}, 
-		\hdclindex{1408}{usage}{56}
+  \item {\ttfamily txfonts} (package)\pfill \hdclindex{1389}{usage}{55}, 
+		\hdclindex{1408}{usage}{57}
   \item {\ttfamily type} (option)\pfill \hdclindex{38}{usage}{8}
 
   \indexspace
 {\bfseries\hfil U\hfil}\nopagebreak
 
-  \item {\ttfamily ucite} (package)\pfill \hdclindex{1361}{usage}{51}
+  \item {\ttfamily ucite} (package)\pfill \hdclindex{1361}{usage}{52}
   \item \verb*+\udc+\pfill \hdclindex{77}{usage}{10}, 
 		\hdclindex{742}{main}{482}
   \item \verb*+\ULthickness+\pfill \hdclindex{929}{}{658}
@@ -1424,8 +1424,8 @@
 {\bfseries\hfil X\hfil}\nopagebreak
 
   \item {\ttfamily xeCJK} (package)\pfill \hdclindex{47}{usage}{9}, 
-		\hdclindex{221}{usage}{21}, 
-		\hdclindex{1390}{usage}{55}
+		\hdclindex{221}{usage}{22}, 
+		\hdclindex{1390}{usage}{56}
   \item \verb*+\xeCJKsetup+\pfill \hdclindex{931}{}{660}
   \item \verb*+\xiaochu+\pfill \hdclindex{59}{usage}{9}, 
 		\hdclindex{363}{main}{159}, \hdclindex{878}{}{607}, 

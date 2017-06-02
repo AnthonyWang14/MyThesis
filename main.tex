@@ -10,7 +10,27 @@
 
 % 所有其它可能用到的包都统一放到这里了，可以根据自己的实际添加或者删除。
 \usepackage{thuthesis}
-
+\usepackage{listings}
+\usepackage{xcolor} % 定制颜色
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+\lstset{ %
+backgroundcolor=\color{white}, % choose the background color
+basicstyle=\footnotesize\ttfamily, % size of fonts used for the code
+columns=fullflexible,
+tabsize=6,
+breaklines=true, % automatic line breaking only at whitespace
+captionpos=b, % sets the caption-position to bottom
+commentstyle=\color{mygreen}, % comment style
+escapeinside={\%*}{*)}, % if you want to add LaTeX within your code
+keywordstyle=\color{blue}, % keyword style
+stringstyle=\color{mymauve}\ttfamily, % string literal style
+frame=single,
+rulesepcolor=\color{red!20!green!20!blue!20},
+% identifierstyle=\color{red},
+language=c++,
+}
 % 自定义包和命令
 \usepackage{custom}
 
@@ -41,7 +61,9 @@
 
 \include{data/chap01}
 \include{data/chap02}
-
+\include{data/chap03}
+\include{data/chap04}
+\include{data/chap05}
 
 %%% 其它部分
 \backmatter

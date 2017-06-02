@@ -1,35 +1,51 @@
-\contentsline {chapter}{\numberline {第1章\hspace {0.3em}}引论}{1}{chapter.1}
+\contentsline {chapter}{\numberline {第1章\hspace {0.3em}}引言}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}研究背景}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}QUIC简介}{1}{section.1.2}
-\contentsline {section}{\numberline {1.3}工作内容}{1}{section.1.3}
-\contentsline {section}{\numberline {1.4}表格样本}{1}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}基本表格}{1}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}复杂表格}{1}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}其它}{5}{subsection.1.4.3}
-\contentsline {section}{\numberline {1.5}定理环境}{6}{section.1.5}
-\contentsline {section}{\numberline {1.6}参考文献}{10}{section.1.6}
-\contentsline {section}{\numberline {1.7}公式}{11}{section.1.7}
-\contentsline {chapter}{\numberline {第2章\hspace {0.3em}}QUIC协议的原理分析及接口介绍}{12}{chapter.2}
-\contentsline {section}{\numberline {2.1}其它例子}{12}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}绘图}{12}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}插图}{12}{subsection.2.1.2}
-\contentsline {subsubsection}{\numberline {2.1.2.1}一个图形}{12}{subsubsection.2.1.2.1}
-\contentsline {subsubsection}{\numberline {2.1.2.2}多个图形}{13}{subsubsection.2.1.2.2}
-\contentsline {chapter}{插图索引}{15}{section*.20}
-\contentsline {chapter}{表格索引}{16}{section*.22}
-\contentsline {chapter}{公式索引}{17}{section*.24}
-\contentsline {chapter}{参考文献}{18}{section*.26}
-\contentsline {chapter}{致\hspace {1em}谢}{20}{section*.28}
-\contentsline {chapter}{声\hspace {1em}明}{21}{section*.30}
-\contentsline {chapter}{\numberline {附录 A\hspace {0.3em}}外文资料原文}{22}{appendix.A}
-\contentsline {section}{\numberline {A.1}Single-Objective Programming}{22}{section.A.1}
-\contentsline {subsection}{\numberline {A.1.1}Linear Programming}{23}{subsection.A.1.1}
-\contentsline {subsection}{\numberline {A.1.2}Nonlinear Programming}{24}{subsection.A.1.2}
-\contentsline {subsection}{\numberline {A.1.3}Integer Programming}{25}{subsection.A.1.3}
-\contentsline {chapter}{\numberline {附录 B\hspace {0.3em}}外文资料的调研阅读报告或书面翻译}{27}{appendix.B}
-\contentsline {section}{\numberline {B.1}单目标规划}{27}{section.B.1}
-\contentsline {subsection}{\numberline {B.1.1}线性规划}{27}{subsection.B.1.1}
-\contentsline {subsection}{\numberline {B.1.2}非线性规划}{28}{subsection.B.1.2}
-\contentsline {subsection}{\numberline {B.1.3}整数规划}{28}{subsection.B.1.3}
-\contentsline {chapter}{\numberline {附录 C\hspace {0.3em}}其它附录}{30}{appendix.C}
-\contentsline {chapter}{在学期间参加课题的研究成果}{31}{section*.40}
+\contentsline {section}{\numberline {1.2}相关工作介绍}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}课题介绍及主要贡献}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}文章结构}{2}{section.1.4}
+\contentsline {chapter}{\numberline {第2章\hspace {0.3em}}QUIC协议的原理分析}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}QUIC原理简介}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}连接建立}{3}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}丢包恢复}{3}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}拥塞控制}{3}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}流控算法}{3}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}其他特性}{3}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}QUIC相关原语}{3}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Quic\_server}{3}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Quic\_client}{3}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}本章小结}{3}{section.2.3}
+\contentsline {chapter}{\numberline {第3章\hspace {0.3em}}QUIC协议评估}{4}{chapter.3}
+\contentsline {section}{\numberline {3.1}仿真方案设计}{4}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}网络参数设置}{4}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}网络拓扑}{4}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}流量模式}{5}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}仿真环境}{5}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}开发环境}{5}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}仿真工具Mininet}{5}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}服务端、客户端、仿真程序代码逻辑}{6}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}仿真结果}{6}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}仿真结果表格}{6}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}丢包率的影响}{6}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}链路带宽的影响}{6}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}瓶颈电路的影响}{6}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}不同流量模式的结果}{6}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}实际网络环境测试方案}{6}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}这块的实验：相近网络环境下不同机器之间传输随机字符串所需要的时间}{6}{subsection.3.4.1}
+\contentsline {section}{\numberline {3.5}实际环境测试结果}{6}{section.3.5}
+\contentsline {section}{\numberline {3.6}本章小结}{6}{section.3.6}
+\contentsline {chapter}{\numberline {第4章\hspace {0.3em}}构建支持QUIC协议的web服务器}{7}{chapter.4}
+\contentsline {section}{\numberline {4.1}终端的Http传输测试}{7}{section.4.1}
+\contentsline {section}{\numberline {4.2}构建web服务器}{7}{section.4.2}
+\contentsline {section}{\numberline {4.3}客户端下载不同web的测试}{7}{section.4.3}
+\contentsline {section}{\numberline {4.4}本章小结}{7}{section.4.4}
+\contentsline {chapter}{\numberline {第5章\hspace {0.3em}}总结与展望}{8}{chapter.5}
+\contentsline {section}{\numberline {5.1}QUIC的评估总结}{8}{section.5.1}
+\contentsline {section}{\numberline {5.2}QUIC的拥塞控制算法探索}{8}{section.5.2}
+\contentsline {chapter}{插图索引}{9}{section*.10}
+\contentsline {chapter}{表格索引}{10}{section*.12}
+\contentsline {chapter}{公式索引}{11}{section*.14}
+\contentsline {chapter}{参考文献}{12}{section*.16}
+\contentsline {chapter}{致\hspace {1em}谢}{13}{section*.18}
+\contentsline {chapter}{声\hspace {1em}明}{14}{section*.20}
+\contentsline {chapter}{\numberline {附录 A\hspace {0.3em}}外文资料的调研阅读报告或书面翻译}{15}{appendix.A}
+\contentsline {chapter}{在学期间参加课题的研究成果}{16}{section*.22}

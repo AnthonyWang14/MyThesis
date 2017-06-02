@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  27 MAY 2017 10:11
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  2 JUN 2017 10:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2467,13 +2467,13 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 (Font)              scaled to size 8.49173pt on input line 394.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 9.90703pt on input line 396.
+ [8]
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 7.07645pt on input line 438.
 
 
-LaTeX Warning: Marginpar on page 8 moved.
+LaTeX Warning: Marginpar on page 9 moved.
 
-[8]
 
 LaTeX Warning: Marginpar on page 9 moved.
 
@@ -2511,13 +2511,13 @@ LaTeX Warning: Marginpar on page 10 moved.
 
 LaTeX Warning: Marginpar on page 10 moved.
 
-
-LaTeX Warning: Marginpar on page 10 moved.
-
-
-LaTeX Warning: Marginpar on page 10 moved.
-
 [10]
+
+LaTeX Warning: Marginpar on page 11 moved.
+
+
+LaTeX Warning: Marginpar on page 11 moved.
+
 
 LaTeX Warning: Marginpar on page 11 moved.
 
@@ -2535,19 +2535,7 @@ Underfull \hbox (badness 3471) in paragraph at lines 614--614
 Underfull \vbox (badness 10000) detected at line 616
  []
 
-
-LaTeX Warning: Marginpar on page 11 moved.
-
 [11]
-
-LaTeX Warning: Marginpar on page 12 moved.
-
-
-LaTeX Warning: Marginpar on page 12 moved.
-
-
-LaTeX Warning: Marginpar on page 12 moved.
-
 
 LaTeX Warning: Marginpar on page 12 moved.
 
@@ -2598,25 +2586,41 @@ LaTeX Warning: Marginpar on page 14 moved.
 
 LaTeX Warning: Marginpar on page 14 moved.
 
+[14]
 
-LaTeX Warning: Marginpar on page 14 moved.
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
 
 
 Underfull \vbox (badness 10000) detected at line 814
  []
 
-[14] [15]
+[15] [16]
 
-LaTeX Warning: Marginpar on page 16 moved.
+LaTeX Warning: Marginpar on page 17 moved.
 
-[16] [17] [18]
-
-LaTeX Warning: Marginpar on page 19 moved.
-
+[17] [18]
 
 LaTeX Warning: Marginpar on page 19 moved.
 
-[19]
+
+LaTeX Warning: Marginpar on page 19 moved.
+
+[19] [20]
 LaTeX Font Info:    Try loading font information for EU1+qhv on input line 1103
 .
 LaTeX Font Info:    No file EU1qhv.fd. on input line 1103.
@@ -2625,12 +2629,12 @@ LaTeX Font Info:    No file EU1qhv.fd. on input line 1103.
 LaTeX Font Warning: Font shape `EU1/qhv/m/n' undefined
 (Font)              using `EU1/lmr/m/n' instead on input line 1103.
 
-[20
+[21
 
-] [21] [22] [23]
+] [22] [23] [24]
 LaTeX Font Info:    Font shape `T1/zpltlf/m/sl' will be
 (Font)              scaled to size 10.53937pt on input line 1426.
- [24] [25] [26] [27] [28] [29] [30] [31] [32]
+ [25] [26] [27] [28] [29] [30] [31] [32] [33]
 Overfull \hbox (3.47957pt too wide) in paragraph at lines 2038--2042
 []\EU1/STSong(0)/m/n/10.53937 最 多 \T1/zpltlf/m/n/10.53937 4 \EU1/STSong(0)/m/n/
 10.53937 层，|  即\T1/zpltlf/m/n/10.53937 : x.x.x.x\EU1/STSong(0)/m/n/10.53937 ，| 
@@ -2639,30 +2643,30 @@ Overfull \hbox (3.47957pt too wide) in paragraph at lines 2038--2042
 /n/10.53937 \subsection\T1/zpltlf/m/n/10.53937 (2),
  []
 
-[33] [34] [35] [36] [37] [38]
+[34] [35] [36] [37] [38] [39]
 Overfull \hbox (12.173pt too wide) in paragraph at lines 2522--2522
  [][]      \T1/npxtt/m/n/9.03374 \ifthu@secret{\heiti\sanhao\thu@secretlevel\th
 u@secret@content}\else\rule{1cm}{0cm}\fi} 
  []
 
-[39] [40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] (./thuthesis.gls
+[40] [41] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] (./thuthesis.gls
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 8.49173pt on input line 21.
 
-[51] [52] [53] [54]
+[52] [53] [54] [55]
 LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
 (Font)              scaled to size 9.03374pt on input line 333.
- [55]) (./thuthesis.ind [56]
+ [56]) (./thuthesis.ind [57]
 Underfull \hbox (badness 10000) in paragraph at lines 83--86
 []\T1/npxtt/m/n/9.03374 acknowledgement \T1/zpltlf/m/n/9.03374 (en-vi-ron- 
  []
 
-[57]
+[58]
 Overfull \hbox (12.70065pt too wide) in paragraph at lines 291--293
 [][]\T1/npxtt/m/n/9.03374 \DeclareCaptionLabelSeparator   
  []
 
-[58] [59] [60]
+[59] [60] [61]
 Underfull \hbox (badness 10000) in paragraph at lines 1048--1050
 []\T1/npxtt/m/n/9.03374 thebibliography \T1/zpltlf/m/n/9.03374 (en-vi-ron- 
  []
@@ -2677,7 +2681,7 @@ Overfull \hbox (22.18607pt too wide) in paragraph at lines 1223--1225
 [][]\T1/npxtt/m/n/9.03374 \thu@first@titlepage@postdoctor   
  []
 
-[61]
+[62]
 Overfull \hbox (55.38501pt too wide) in paragraph at lines 1263--1265
 [][]\T1/npxtt/m/n/9.03374 \thu@postdoctor@first@discipline@title   
  []
@@ -2704,7 +2708,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1381--1384
 **********************************
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 29.
- [62]
+ [63]
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 29.
  (./thuthesis.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 29.
@@ -2716,12 +2720,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 29.
  ) 
 Here is how much of TeX's memory you used:
- 35907 strings out of 493591
- 652387 string characters out of 6143546
- 808171 words of memory out of 5000000
- 38880 multiletter control sequences out of 15000+600000
+ 35965 strings out of 493591
+ 653166 string characters out of 6143546
+ 807746 words of memory out of 5000000
+ 38938 multiletter control sequences out of 15000+600000
  117212 words of font info for 136 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  72i,12n,149p,10442b,3118s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thuthesis.pdf (62 pages).
+Output written on thuthesis.pdf (63 pages).
