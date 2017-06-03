@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1496232954 "shuji.tex" "shuji.pdf" "shuji" 1496387914
+["pdflatex"] 1496232954 "shuji.tex" "shuji.pdf" "shuji" 1496499617
   "/Library/Fonts/Songti.ttc" 1445639898 66899384 43d15fb62b94f4b79db8cadb45aab8d3 ""
-  "/dev/null" 1496387886 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "/dev/null" 1496499607 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -145,8 +145,8 @@
   "thuthesis.cfg" 1495802811 7104 5fb924834d8560f518a9d9c30c67c937 ""
   "thuthesis.cls" 1495802811 30098 5e54568cf3047fa19277239a5416e995 ""
   (generated)
-  "shuji.log"
+  "shuji.pdf"
   "shuji.aux"
   "shuji.thm"
-  "shuji.pdf"
+  "shuji.log"
   "shuji.out"

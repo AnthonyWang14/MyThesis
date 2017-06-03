@@ -5,7 +5,11 @@
 \section{研究背景}
 写相关TCP、UDP、TLS、HTTP、SPDY的介绍
 QUIC是一个由Google开发的新型传输协议，全称是Quick UDP Internet Connections,也就是快速UDP网络连接的意思。QUIC解决了许多在现代web应用中遇到的传输层和应用层的问题，并且提供给web应用开发者提供了方便使用的接口。QUIC非常接近于TCP+TLS+HTTP2，但是是实现在UDP上的一个应用层协议，QUIC在网络分层结构中的定位如下图所示。
-
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{quic_struc}
+	\label{fig:quic_struc}
+\end{figure}
 相比于TCP+TLS+HTTP2，QUIC主要的优点有：
 	\begin{itemize}
 		\item 低连接延迟
@@ -28,7 +32,6 @@ QUIC协议进行相关研究，而本篇文章的工作，就是对QUIC的性能
 	\end{itemize}
 \section{文章结构}
 文章除去引言部分以外，在第二章先详细介绍了QUIC协议的基本思想和原理，其后分析了其服务端和客户端相关原语的接口代码的使用方式；第三章，根据提供的QUIC协议的结构搭建了简单的支持QUIC协议传输的应用程序，并基于Mininet进行仿真，对QUIC协议与TCP协议进行了不同拓扑和网络状况下的吞吐量性能评估；第四章，首先分析了访问已有的支持QUIC的服务器，对是否开启QUIC开关情况下的Chrome浏览器的网页下载速度进行了统计分析，更进一步，在自己构建的能够支持QUIC协议的Web服务器，对是否开启QUIC支持的服务器进行网页下载速度测试；在第五章，对整个项目进行总结并对未来工作进行了展望。
-
 
 % \subsection{基本表格}
 % \label{sec:basictable}

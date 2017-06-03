@@ -8,28 +8,29 @@
 
 \subsection{网络拓扑}
 使用的网络拓扑有以下两种：
-一是简单的两个主机用一个交换机相连，如下图所示，其中h1是QUIC/TCP服务端，h2是QUIC/TCP客户端，S1是交换机。（插图）
-二是一个哑铃型拓扑，如下图所示，其中h1是TCP服务端，h2是TCP客户端，h3是QUIC服务端，h4是QUIC客户端，s1和s2是两个交换机，其中s1和s2之间的链路是瓶颈链路。（插图）
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{simple_topo}
+	\caption{简单拓扑}
+	\label{fig:simpletopo}
+\end{figure}
+一是简单的两个主机用一个交换机相连，在\ref{fig:simpletopo} 所示，其中h1是QUIC/TCP服务端，h2是QUIC/TCP客户端，S1是交换机。
 
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{dumbbell_topo}
+	\caption{哑铃型拓扑}
+	\label{fig:dumbbelltopo}
+\end{figure}
 \subsection{流量模式}
+二是一个哑铃型拓扑，\ref{fig:dumbbelltopo}所示，其中h1是TCP服务端，h2是TCP客户端，h3是QUIC服务端，h4是QUIC客户端，s1和s2是两个交换机，其中s1和s2之间的链路是瓶颈链路。
+
 使用了两种流量模式：
-第一种是由客户端持续发送一定时间的随机生成的字符串。以TCP为例，客户端的部分代码如下：
-
-\begin{lstlisting}[language={[ANSI]C},numbers=left]
-	for (time_t dest = time(NULL) + FLAGS_duration; time(NULL) < dest; ) {
-      char* out = randomString(FLAGS_chunk_size);
-      int n = write(sock, out, FLAGS_chunk_size);
-      delete out;
-      if (n < 0) {
-        cout << "Could not write to socket\n";
-        exit(1);
-      }
-    }
-\end{lstlisting}
-
-第二种是由客户端根据泊松流分布进行数据的发送，泊松流的主要参数有：
+第一种是由客户端持续发送一定时间的随机生成的字符串。
+第二种是由客户端根据泊松流分布进行数据的发送。泊松流
 
 \section{仿真环境}
+在这一部分主要讲介绍一下本实验的仿真环境设置。主要包括整个代码运行的环境，以及仿真工具Mininet的简单介绍和接口使用，客户端和服务端的代码逻辑设计。
 \subsection{开发环境}
 开发环境使用的是由Mac OS X操作系统下的VMware Fusion软件下运行的Ubuntu14.04，64位桌面版的虚拟机。
 
@@ -67,6 +68,7 @@ class XTopo(Topo):
 
 \section{仿真结果}
 \subsection{仿真结果表格}
+
 \subsection{丢包率的影响}
 \subsection{链路带宽的影响}
 \subsection{瓶颈电路的影响}

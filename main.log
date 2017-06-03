@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  2 JUN 2017 15:18
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  3 JUN 2017 22:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2325,27 +2325,31 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 ] (./main.toc [3
 
 
-])
+] [4])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- (./data/denotation.tex [4] [5
+ (./data/denotation.tex [5] [6
 
 
-]) [6]
+]) [7]
 \openout2 = `data/chap01.aux'.
 
- (./data/chap01.tex
+
+(./data/chap01.tex
 第1章
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
 (Font)              scaled to size 12.64714pt on input line 5.
+File: figures/quic_struc.eps Graphic file (type eps)
+<figures/quic_struc.eps>
 LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 1
-1.
+5.
+
 (/usr/local/texlive/2016/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 11.
+(Font)              scaled to size 12.045pt on input line 15.
  [1
 
 
@@ -2356,20 +2360,28 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 
 (./data/chap02.tex
 第2章
-) [3
+File: figures/quicHandShake.pdf Graphic file (type QTm)
+<use  "figures/quicHandShake.pdf" >
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 11.04124pt on input line 11.
+ [3
 
 
 
-]
+] [4]) [5] [6]
 \openout2 = `data/chap03.aux'.
 
  (./data/chap03.tex
 第3章
-[4
+File: figures/simple_topo.pdf Graphic file (type QTm)
+<use  "figures/simple_topo.pdf" >
+File: figures/dumbbell_topo.pdf Graphic file (type QTm)
+ <use  "figures/dumbbell_topo.pdf" > [7
 
 
 
-] (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+]
+[8] (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 \g__fontspec_family_KaiTi_GB2312_int=\count332
@@ -2388,7 +2400,7 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 . 
 . Could not resolve font KaiTi_GB2312/I (it probably doesn't exist).
 .................................................
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 21.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 40.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -2406,13 +2418,13 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 . <->"KaiTi_GB2312/OT:script=hani;language=DFLT;embolden=4;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
- [5]) [6]
+ [9]) [10]
 \openout2 = `data/chap04.aux'.
 
 
 (./data/chap04.tex
 第4章
-) [7
+) [11
 
 
 
@@ -2421,7 +2433,7 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 
  (./data/chap05.tex
 第5章
-) [8
+) [12
 
 
 
@@ -2429,7 +2441,7 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [9
+ [13
 
 
 
@@ -2438,14 +2450,14 @@ File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [10
+ [14
 
 
 ] (./main.loe)
 \tf@loe=\write7
 \openout7 = `main.loe'.
 
- (./main.bbl [11
+ (./main.bbl [15
 
 
 ]
@@ -2455,7 +2467,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [12
+) [16
 
 
 ]
@@ -2464,22 +2476,22 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
  (./data/ack.tex
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
 (Font)              scaled to size 12.045pt on input line 11.
- [13
+ [17
 
 
 
-]) [14
+]) [18
 
 
 ] (./data/appendix01.tex
 附录 A
-) [15
+) [19
 
 
 ]
 \openout2 = `data/resume.aux'.
 
- (./data/resume.tex) [16
+ (./data/resume.tex) [20
 
 
 
@@ -2502,7 +2514,7 @@ File: figures/scan-record.pdf Graphic file (type QTm)
 <use  "figures/scan-record.pdf"  page1>
 File: figures/scan-record.pdf Graphic file (type QTm)
 
-<use  "figures/scan-record.pdf"  page1> [17
+<use  "figures/scan-record.pdf"  page1> [21
 
 ]
 File: figures/scan-record.pdf Graphic file (type QTm)
@@ -2513,7 +2525,7 @@ File: figures/scan-record.pdf Graphic file (type QTm)
 <use  "figures/scan-record.pdf"  page2>
 File: figures/scan-record.pdf Graphic file (type QTm)
 
-<use  "figures/scan-record.pdf"  page2> [18]
+<use  "figures/scan-record.pdf"  page2> [22]
 \tf@thm=\write8
 \openout8 = `main.thm'.
 
@@ -2531,12 +2543,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 36313 strings out of 493591
- 662429 string characters out of 6143546
- 778456 words of memory out of 5000000
- 39138 multiletter control sequences out of 15000+600000
- 79035 words of font info for 134 fonts, out of 8000000 for 9000
+ 36334 strings out of 493591
+ 662640 string characters out of 6143546
+ 775388 words of memory out of 5000000
+ 39154 multiletter control sequences out of 15000+600000
+ 81851 words of font info for 136 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  70i,18n,97p,10437b,1313s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (26 pages).
+Output written on main.pdf (31 pages).
