@@ -1,33 +1,36 @@
 \chapter{QUIC协议评估}
+
+\label{cha:evaluation}
 本章的主要内容是将QUIC协议与TCP协议进行了传输任务的吞吐量进行对比，主要分为了在单机进行的仿真测试和真实网络流量情况下两个主机之间的传输测试。其中单机的仿真测试使用的拓扑包括了简单的一对一的拓扑，以及具有瓶颈电路的哑铃状拓扑。而在两个主机之间的传输测试包括了在一个机器上的两个进程分别运行的客户端和服务端之间的传输以及两个不同机器上运行的客户端和服务端之间的传输。
 
 \section{仿真方案设计}
-仿真的方案设计如下：由客户端在一段时间内，通过相应的协议(QUIC或者TCP)向服务端发送随机字符串，而服务端会输出已经成功收到的字节数，通过改变仿真的网络状况参数以及网络拓扑，还有客户端发送数据的流量模式（比如在泊松流的情况下）来对QUIC和TCP协议进行详尽的评估测试。
+仿真的方案设计如下：由客户端在一段时间内，通过相应的协议(QUIC或者TCP)向服务端发送随机字符串，而服务端会输出已经成功收到的字节数，通过改变仿真的网络状况参数以及网络拓扑，还有客户端发送数据的流量模式（比如在不同负载的泊松流的情况下）来对QUIC和TCP协议进行详尽的评估测试。
 \subsection{网络参数设置}
-网络参数主要与链路有关，主要参数有网络传输延迟（Delay）、链路带宽（BandWidth）、丢包率（Loss）；除此以外，在哑铃状拓扑中，其瓶颈电路的带宽（MidBw）也是一个重要的参数。在整个仿真过程中，这些参数会被设置为xxx（用什么格式比较好）
+网络参数主要与链路有关，主要参数有网络传输延迟（Delay）、链路带宽（BandWidth）、丢包率（Loss）；除此以外，在哑铃状拓扑中，其瓶颈电路的带宽（MidBw）也是一个重要的参数。在整个仿真过程中，延迟有
 
 \subsection{网络拓扑}
 使用的网络拓扑有以下两种：
+
+一是简单的两个主机用一个交换机相连，如\ref{fig:simpletopo} 所示，其中h1是QUIC/TCP服务端，h2是QUIC/TCP客户端，S1是交换机。
 \begin{figure}
 	\centering
 	\includegraphics[width=\textwidth]{simple_topo}
 	\caption{简单拓扑}
 	\label{fig:simpletopo}
 \end{figure}
-一是简单的两个主机用一个交换机相连，在\ref{fig:simpletopo} 所示，其中h1是QUIC/TCP服务端，h2是QUIC/TCP客户端，S1是交换机。
 
+二是一个哑铃型拓扑，\ref{fig:dumbbelltopo}所示，其中h1是TCP服务端，h2是TCP客户端，h3是QUIC服务端，h4是QUIC客户端，s1和s2是两个交换机，其中s1和s2之间的链路是瓶颈链路。
 \begin{figure}
 	\centering
 	\includegraphics[width=\textwidth]{dumbbell_topo}
 	\caption{哑铃型拓扑}
 	\label{fig:dumbbelltopo}
 \end{figure}
-\subsection{流量模式}
-二是一个哑铃型拓扑，\ref{fig:dumbbelltopo}所示，其中h1是TCP服务端，h2是TCP客户端，h3是QUIC服务端，h4是QUIC客户端，s1和s2是两个交换机，其中s1和s2之间的链路是瓶颈链路。
 
+\subsection{流量模式}
 使用了两种流量模式：
 第一种是由客户端持续发送一定时间的随机生成的字符串。
-第二种是由客户端根据泊松流分布进行数据的发送。泊松流
+第二种是由客户端根据泊松流量模型进行数据的发送【引用论文】。泊松模型是指在时间t以内，发送的包的数目满足$\lambda t$的泊松分布，$\lambda$是表示负载大小的参数。工作负载越大，每条流之间的发送时间越短，也就是说发送的流越多。
 
 \section{仿真环境}
 在这一部分主要讲介绍一下本实验的仿真环境设置。主要包括整个代码运行的环境，以及仿真工具Mininet的简单介绍和接口使用，客户端和服务端的代码逻辑设计。
@@ -67,12 +70,34 @@ class XTopo(Topo):
 \end{lstlisting}
 
 \section{仿真结果}
+由于仿真的参数较多，在以下分析部分只会列出部分有代表性的仿真数据。统计了服务端收到的数据量随时间的变化，并将不同丢包率情况下的QUIC和TCP的数据量绘制在一幅图上，来进行数据的分析。
 \subsection{仿真结果表格}
-
 \subsection{丢包率的影响}
+
 \subsection{链路带宽的影响}
 \subsection{瓶颈电路的影响}
 \subsection{不同流量模式的结果}
+这一部分主要分析在不同负载大小的泊松流量模型之下，对QUIC和TCP进行性能比较的结果。在图\ref{fig:load41}、图\ref{fig:load42}、图\ref{fig:load43}中，列出了RTT为20ms情况下，负载为0.4的时候，不同带宽下的结果。可以看出
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{quic_vs_tcp_20ms_5Mbps_4load}
+	\caption{20ms5Mbps0.4load}
+	\label{fig:load41}
+\end{figure}
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{quic_vs_tcp_20ms_10Mbps_4load}
+	\caption{20ms10Mbps0.4load}
+	\label{fig:load42}
+\end{figure}
+\begin{figure}
+	\centering
+	\includegraphics[width=\textwidth]{quic_vs_tcp_20ms_100Mbps_4load}
+	\caption{20ms100Mbps0.4load}
+	\label{fig:load43}
+\end{figure}
+
+
 \section{实际网络环境测试方案}
 \subsection{这块的实验：相近网络环境下不同机器之间传输随机字符串所需要的时间}
 \section{实际环境测试结果}

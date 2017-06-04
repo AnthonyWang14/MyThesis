@@ -4,10 +4,11 @@
 
 \section{研究背景}
 写相关TCP、UDP、TLS、HTTP、SPDY的介绍
-QUIC是一个由Google开发的新型传输协议，全称是Quick UDP Internet Connections,也就是快速UDP网络连接的意思。QUIC解决了许多在现代web应用中遇到的传输层和应用层的问题，并且提供给web应用开发者提供了方便使用的接口。QUIC非常接近于TCP+TLS+HTTP2，但是是实现在UDP上的一个应用层协议，QUIC在网络分层结构中的定位如下图所示。
+QUIC是一个由Google开发的新型传输协议，全称是Quick UDP Internet Connections,也就是快速UDP网络连接的意思。QUIC解决了许多在现代web应用中遇到的传输层和应用层的问题，并且提供给web应用开发者提供了方便使用的接口。QUIC非常接近于TCP+TLS+HTTP2，但是是实现在UDP上的一个应用层协议，QUIC在网络分层结构中的定位如图\ref{fig:quic_struc}所示。
 \begin{figure}
 	\centering
 	\includegraphics[width=\textwidth]{quic_struc}
+	\caption{QUIC和TCP在网络分层模型中的位置}
 	\label{fig:quic_struc}
 \end{figure}
 相比于TCP+TLS+HTTP2，QUIC主要的优点有：
@@ -18,7 +19,7 @@ QUIC是一个由Google开发的新型传输协议，全称是Quick UDP Internet 
 		\item 前向纠错算法
 		\item 连接迁移功能
 	\end{itemize}
-具体来说，低连接延迟是指每次QUIC的连接建立（握手）只需要1到0个往返的时间，而相比较而言，TCP+TLS则需要1到3个往返时间。在拥塞控制算法方面，QUIC正在不断添加新的内容，现有的拥塞控制主要是基于TCP开发的，主要有Cubic，此外QUIC相比于TCP的拥塞控制而言，还能提供更丰富的拥塞控制信息，这得益于QUIC传输的过程中的ACK帧的内容包含了足够多的信息，包括收发包的延迟时间信息。QUIC协议通过底层使用UDP协议避免了TCP连接过程中会遇到的线头阻塞问题，即TCP协议因为处理包有严格的顺序，所以一旦有包出错，后续的包会等待这个包处理完成，而QUIC则解决了这方面的问题。
+简单来说，低连接延迟是指每次QUIC的连接建立（握手）只需要1到0个往返的时间，而相比较而言，TCP+TLS则需要1到3个往返时间。在拥塞控制算法方面，QUIC正在不断添加新的内容，现有的拥塞控制主要是基于TCP开发的，主要有Cubic，此外QUIC相比于TCP的拥塞控制而言，还能提供更丰富的拥塞控制信息，这得益于QUIC传输的过程中的ACK帧的内容包含了足够多的信息，包括收发包的延迟时间信息。QUIC协议通过底层使用UDP协议避免了TCP连接过程中会遇到的线头阻塞问题，即TCP协议因为处理包有严格的顺序，所以一旦有包出错，后续的包会等待这个包处理完成，而QUIC则解决了这方面的问题。本文会在第\ref{cha:analysis}章中对QUIC的优点进行具体的分析。
 \section{相关工作介绍}
 几篇相关quic测试的文章综述
 \section{课题介绍及主要贡献}
